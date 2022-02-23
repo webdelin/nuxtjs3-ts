@@ -3,10 +3,11 @@
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
-    "start": "node .output/server/index.mjs"
+    "start": "node .output/server/index.mjs",
+    "install": "yarn install"
   },
   "devDependencies": {
-    "nuxt3": "^3.0.0-27375427.d07d572"
+    "@nuxt/kit": "npm:@nuxt/kit-edge@3.0.0-27296423.f3082ca"
   },
   "dependencies": {
     "unenv": "^0.4.3"
