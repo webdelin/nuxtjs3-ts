@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "node .output/server/index.mjs",
+    "install": "yarn install"
+  },
+  "devDependencies": {
+    "nuxt3": "^3.0.0-27375427.d07d572"
+  },
+  "dependencies": {
+    "unenv": "^0.4.3"
+  }
+}
