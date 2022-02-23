@@ -10,7 +10,7 @@ npx nuxi init nuxt3-app
 
 🎉 Another dandy Nuxt project just made! Next steps:
 
-     📁  `cd nuxt3-app`
+     📁  `cd nuxtjs3-ts`
 
      💿  Install dependencies with `npm install` or `yarn install`
 

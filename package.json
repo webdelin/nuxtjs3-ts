@@ -3,8 +3,7 @@
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
-    "start": "node .output/server/index.mjs",
-    "install": "yarn install"
+    "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
     "nuxt3": "^3.0.0-27375427.d07d572"
